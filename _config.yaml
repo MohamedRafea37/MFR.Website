@@ -1,0 +1,11 @@
+title: "MFR Website"
+description: "MFR Personal Website"
+author: "Mohamed Rafea"
+
+url: "https://mohamedrafea37.github.io"
+baseurl: "/MFR.Website"
+
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
